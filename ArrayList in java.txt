@@ -1,0 +1,12 @@
+import java.util.*;
+class Main {
+    public static void main(String[] args) throws InterruptedException {
+        ArrayList<String> l = new ArrayList<String>();
+
+        l.add("ROSHAN");
+        l.add("NEC");
+        l.add("CSI");
+        l.add("OOTY");
+        System.out.println(l);
+    }
+}
